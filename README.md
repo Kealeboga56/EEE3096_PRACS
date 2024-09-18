@@ -2,7 +2,6 @@
 
 
 **Authors**: Kealeboga & Olufisayo  
-**Date**: [Current Date]
 
 ## Overview
 
