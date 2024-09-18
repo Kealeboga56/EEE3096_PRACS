@@ -14,28 +14,12 @@ Welcome to our Embedded Systems Lab projects repository! This collection include
   - [Lab 1: GPIOs](#lab-1-getting-started)
   - [Lab 2: DACs](#lab-2-sensors-and-actuators)
   - [Lab 3: ADCs and SPI and interfacing with LCD](#lab-3-communication-protocols)
-  - [Lab 4: Real-Time Systems](#lab-4-real-time-systems)
+  - [Lab 4: Not released yet](#lab-4-real-time-systems)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## Project Structure
+## Project Structure (put it later...)
 
-```plaintext
-├── Lab1_GettingStarted/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-├── Lab2_SensorsActuators/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-├── Lab3_CommunicationProtocols/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-└── Lab4_RealTimeSystems/
-    ├── src/
-    ├── docs/
-    └── README.md
+
